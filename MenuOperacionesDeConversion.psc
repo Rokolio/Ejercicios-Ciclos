@@ -19,9 +19,10 @@ funcion KilogramosAGramos
 	Escribir "Ingrese la cantidad de Kilogramos a convertir"
 	Leer kg
 	g <- kg*1000;
-	Escribir kg, " son iguales a: ", g, " g";
+	Escribir kg, "Kg son iguales a: ", g, "g";
 	Esperar 1 Segundos
-	Escribir " Pulse cualquier tecla para volver al menu principal"
+	Escribir  " "
+	Escribir "Pulse cualquier tecla para volver al menu principal"
 	Esperar Tecla
 	Limpiar Pantalla
 FinFuncion
@@ -35,9 +36,10 @@ Funcion GramosAMiligramos
 	Escribir "Ingrese la cantidad de gramos a convertir"
 	Leer g
 	mg <- g*1000;
-	Escribir g, " son iguales a: ", mg, " mg";
+	Escribir g, "G son iguales a: ", mg, "mg";
 	Esperar 1 Segundos
-	Escribir " Pulse cualquier tecla para volver al menu principal"
+	Escribir  " "
+	Escribir "Pulse cualquier tecla para volver al menu principal"
 	Esperar Tecla
 	Limpiar Pantalla
 FinFuncion
