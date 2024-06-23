@@ -1,3 +1,9 @@
+// Crear un menú con las siguientes opciones:
+// 		* Kilogramos a gramos
+// 		* Gramos a miligramos
+// 		* Tablas de multiplicar
+// El menú debe ser cíclico, puede utilizar cualquiera de las estructuras de repetición para la parte cíclica.
+// Debe contener una opción de salir en el menú para terminar el programa
 Funcion op <- menu
 	Escribir "********************************"
 	Escribir "*              Menu            *"
